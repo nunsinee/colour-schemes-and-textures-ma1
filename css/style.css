@@ -302,7 +302,7 @@ a.card-text:hover {
 
 @media (max-width: 576px) {
 	.categories {
-		background: url(../images/bg_dark_sm.jpg) no-repeat center center fixed;
+		background: url(../images/bg_dark_s.jpg) no-repeat center center fixed;
 		background-size: cover;
 	}
 	.heading,
