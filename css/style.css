@@ -116,7 +116,7 @@ p {
 }
 
 .categories {
-	background: url(../images/bg_dark_lg.jpg) no-repeat center center fixed;
+	background: url(../images/bg_dark_l.jpg) no-repeat center center fixed;
 	background-size: cover;
 }
 
@@ -301,10 +301,6 @@ a.card-text:hover {
 }
 
 @media (max-width: 576px) {
-	.categories {
-		background: url(../images/bg_dark_s.jpg) no-repeat center center fixed;
-		background-size: cover;
-	}
 	.heading,
 	.heading-categories {
 		font-size: 1.5rem;
